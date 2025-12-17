@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ゴシック・ロックン・ローズ",
+  "base_artist": "れみ・ふうり from STAR☆ANIS",
+  "createdAt": "2025-12-17T08:54:43.135012Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ゴシック・ロックン・ローズ",
+      "artist": "れみ・ふうり from STAR☆ANIS",
+      "has_synced": false,
+      "path": "select/pl_01_ゴシック・ロックン・ローズ_れみ・ふうり_from_STAR☆ANIS.txt"
+    }
+  ]
+}
